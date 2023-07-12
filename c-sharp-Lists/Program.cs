@@ -21,11 +21,22 @@ internal class Program
 
 
         List<Person> personlist= new List<Person>();
-        personlist.Add(new Person(1123, "omran", "Mr"));
-        personlist.Add(new Person(1125, "fatima", "Ms"));
-        personlist.Add(new Person(1129, "ali", "Mr"));
+        personlist.Add(new Person(1123,19, "omran", "Mr"));
+        personlist.Add(new Person(1125,20, "fatima", "Ms"));
+        personlist.Add(new Person(1129,18 ,"ali", "Mr"));
 
 
+
+        foreach (Person person in personlist)
+        {
+            Console.WriteLine(person.ToString());
+        }
+
+        
+
+        personlist.Sort();
+
+        Console.WriteLine("this is after sorting: ");
 
         foreach (Person person in personlist)
         {
