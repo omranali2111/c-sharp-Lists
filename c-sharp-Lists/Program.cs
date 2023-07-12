@@ -1,5 +1,6 @@
 ﻿using c_sharp_Lists;
 using System;
+using System.Collections;
 
 internal class Program
 {
@@ -43,6 +44,16 @@ internal class Program
             Console.WriteLine(person.ToString());
         }
 
+
+        ArrayList arraylist= new ArrayList();
+        arraylist.Add(1);
+        arraylist.Add("hello");
+        arraylist.Add(new Person(1118, 30, "omar", "Mr"));
+
+        foreach(var item  in arraylist)
+        {
+            Console.WriteLine(item.ToString());
+        }
 
 
 
