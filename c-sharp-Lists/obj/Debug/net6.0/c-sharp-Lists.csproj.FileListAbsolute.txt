@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\bin\Debug\net6.0\c-sharp-Lists.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\bin\Debug\net6.0\c-sharp-Lists.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\bin\Debug\net6.0\c-sharp-Lists.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\bin\Debug\net6.0\c-sharp-Lists.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\bin\Debug\net6.0\c-sharp-Lists.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\refint\c-sharp-Lists.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\c-sharp-Lists.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-Lists\c-sharp-Lists\obj\Debug\net6.0\ref\c-sharp-Lists.dll
